@@ -1,7 +1,7 @@
 {
-  "name": "charizard",
-  "description": "Lovely charizard.",  
-  "image": "", 
+  "name": "Mewtwo",
+  "description": "Lovely mewtwo.",  
+  "image": "<INSERT URL HERE>", 
   "attributes": [ 
         {
           "trait_type": "Base", 

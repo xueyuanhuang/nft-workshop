@@ -1,7 +1,7 @@
 {
-  "name": "rayquaza",
-  "description": "Lovely rayquaza.",  
-  "image": "", 
+  "name": "Bulbasaur",
+  "description": "Lovely bulbasaur.",  
+  "image": "<INSERT URL HERE>", 
   "attributes": [ 
         {
           "trait_type": "Base", 
@@ -43,5 +43,4 @@
           "value": 2
         } 
     ]
-    
 }
