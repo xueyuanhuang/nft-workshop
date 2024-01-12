@@ -28,7 +28,6 @@ contract SimpleNft is ERC721, Ownable{
         require(tokenIds.current() < TOTAL_POKEMON, "Sorry we are out of Pokemon NFTs");
         require(msg.value == cost,"You have indicated the wrong cost, it costs 0.01 Matic to mint this NFT");
         require(_to == msg.sender,"Only the minter can receive the NFT");
-        require(balanceOf(_to)==0,"You already own an NFT from this collection");
         _safeMint(_to,tokenIds.current());
         tokenIds.increment();
     }
