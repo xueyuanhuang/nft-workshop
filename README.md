@@ -13,7 +13,7 @@
 2.6."_initbaseURL" enter "https://gateway.pinata.cloud/ipfs/[QmcQXHYsAa19FfSXzuVHHNFNw42EbYxwyu7mPRQx6cy4rj]" the [] part is metadata's jason clode location, you should be able to enter the browser to check if is the right json  
 2.7.click to "transact"  
 
-3.mint
+3.mint  
 3.1. under the "Deployed Contracts" in "mint" option enter your wallet address  
 3.2. under "VALUE" enter "10000000000000000"  
 3.3.click "mint"  
